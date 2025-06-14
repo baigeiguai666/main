@@ -17,8 +17,8 @@
 #define TAG "ASR_CLIENT"
 
 // 阿里云认证信息
-const char* ALIYUN_ACCESS_KEY_ID = "2232667";
-const char* ALIYUN_ACCESS_KEY_SECRET = "sk-0256ee9ec1d34a62b864e88d3f1339a7";
+const char* ALIYUN_ACCESS_KEY_ID = "";    #填阿里云api的id
+const char* ALIYUN_ACCESS_KEY_SECRET = "";  #填阿里云的api
 
 // Paraformer API 配置
 const char* PARA_URL = "https://nls-gateway.cn-shanghai.aliyuncs.com/api/predict/paraformer-v2"; 
