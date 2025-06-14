@@ -6,7 +6,7 @@
 
 // DeepSeek API 配置
 #define DEEPSEEK_API_ENDPOINT "https://api.deepseek.com/v1/chat/completions"
-#define DEEPSEEK_API_KEY "sk-8e4332e1ce2b44f3889f26bb0bc9e91b"  // API密钥
+#define DEEPSEEK_API_KEY ""  // API密钥
 #define DEEPSEEK_MODEL "deepseek-chat"           // 使用DeepSeek聊天模型
 
 // 定义对话消息结构
